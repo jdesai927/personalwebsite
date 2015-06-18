@@ -1,0 +1,22 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "The website of Jinesh Desai.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdesai927/personalwebsite.git"
+  },
+  "author": "Jinesh Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdesai927/personalwebsite/issues"
+  },
+  "engines": {
+    "node": "0.12.4"
+  },
+  "homepage": "https://github.com/jdesai927/personalwebsite#readme"
+}
